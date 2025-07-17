@@ -49,3 +49,15 @@ footer {
   color: white;
   margin-top: 40px;
 }
+.download-btn {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #4CAF50;
+  color: white;
+  text-decoration:none;
+  border-radius: 8px;
+  margin-top: 20px;
+}
+.download-btn:hover {
+  background-color:#45a049;
+}
